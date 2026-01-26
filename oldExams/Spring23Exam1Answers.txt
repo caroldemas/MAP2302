@@ -1,0 +1,29 @@
+Exam 1 Spring 2023
+
+    Form A   Form B
+1.  d		a
+2.  b		d
+3.  c 		e
+4.  b		b
+5.  d		c
+6.  d		b
+7.  c		a
+8.  b		a
+9.  a 		c
+10. e		b
+11. b		e
+12. b		a
+13. e		c
+
+Free response
+1.y(x)=xarctan(x)+cx
+c=-pi/4
+infinity
+
+2.h=sqrt(2)
+y_3=-sqrt(2)
+y_4=0
+
+3. x^2y^2/2-x^5+y^4=C
+c=1
+x=(1/2)^(1/3)
