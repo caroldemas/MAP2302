@@ -1,0 +1,33 @@
+Exam 2 Spring 23
+
+ A      B
+1. c    b
+2. c    a
+3. d    d
+4. d    c   
+5. e    d
+6. e    a
+7. b    e
+8. d    e
+9. e    b
+10. c   a 
+11. c   e 
+12. b   d
+
+Free Response
+
+1. y_2=x^3e^{x}
+
+
+2.
+a. e^{4t}, -e^{4t}tan t, e^{4t}
+b. ln|cost| or -ln|sect|
+c. t
+d. y= e^{2t}(c_1\cos t+c_2\sin t+\ln|\cos t|\cos t+t\sin t) or
+y= e^{2t}(c_1\cos t+c_2\sin t-\ln|\sec t|\cos t+t\sin t)
+
+
+3. y=c_1e^t +e^{3t}(c_2cos(2t)+c_3sin(2t))
+
+
+4. -(t+1)e^{3t}
